@@ -3,3 +3,4 @@
  05112024:2102 Mappe tilgang sendt Finn Haugen  
  06112024:1208 PY1010-Obl1 gjort public
  
+11112024: Godkjent 
